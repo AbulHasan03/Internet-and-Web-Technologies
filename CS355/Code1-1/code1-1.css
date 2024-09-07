@@ -1,0 +1,15 @@
+body{
+
+h1{
+    text-align: center;
+}
+
+ul{
+    list-style: inside;
+    li{
+        margin-left: 500px;
+        margin-bottom: -15px;
+    }
+}
+
+}
